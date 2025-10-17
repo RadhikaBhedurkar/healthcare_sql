@@ -24,10 +24,10 @@ This project simulates how real-world healthcare data can be organized, queried,
 
 # SQL Features Demonstrated
 
-✅ Basic Queries – SELECT, WHERE, ORDER BY
-✅ Joins – INNER JOIN, LEFT JOIN across tables
-✅ Aggregations – COUNT, SUM, AVG, GROUP BY, HAVING
-✅ Subqueries – Nested queries for analytics
-✅ Views – Optional views for simplified reporting
-✅ Constraints – Primary keys, foreign keys and data integrity
-✅ Business Insights – Revenue tracking, patient activity, and doctor performance
+1. Basic Queries – SELECT, WHERE, ORDER BY
+2. Joins – INNER JOIN, LEFT JOIN across tables
+3. Aggregations – COUNT, SUM, AVG, GROUP BY, HAVING
+4. Subqueries – Nested queries for analytics
+5. Views – Optional views for simplified reporting
+6. Constraints – Primary keys, foreign keys and data integrity
+7. Business Insights – Revenue tracking, patient activity, and doctor performance
